@@ -10,4 +10,5 @@ The Socket Calculator project enables clients to send mathematical expressions t
 
 ## Example
 ![](./Result/img1.png)
+
 ![](./Result/img2.png)

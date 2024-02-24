@@ -9,5 +9,5 @@ The Socket Calculator project enables clients to send mathematical expressions t
 - In case of invalid input syntax, the server notifies the client of the error.
 
 ## Example
-![](./Result/img1.jpg)
-![](./Result/img1.jpg)
+![](./Result/img1.png)
+![](./Result/img2.png)
